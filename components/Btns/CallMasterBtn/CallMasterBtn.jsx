@@ -1,6 +1,6 @@
-export default function CallMasterBtn() {
+export default function CallMasterBtn(props) {
     return (
-        <div className="callmaster btn">
+        <div className={"callmaster btn " + props.className}>
             Заказать мастера на замер
         </div>
     )

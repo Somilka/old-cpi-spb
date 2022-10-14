@@ -4,18 +4,18 @@ export default function Windows() {
     return (
         <MainLayout>
             <div className="content"><div className="title">Стеклопакеты</div></div>
-            <div className="content">
+            {/* <div className="content">
                 <h3 className="full tac">Объекты использования стеклопакетов:</h3>
                 <p className="f3 flex jcc aic">В многоэтажные дома.</p>
                 <p className="s3 flex jcc aic">Дачи.</p>
                 <p className="t3 flex jcc aic">Коттеджи.</p>
                 <p className="f3 flex jcc aic">Частные дома.</p>
-                <p className="s3 flex jcc aic">Офисные центры.</p>
+                <h3 className="s3 flex jcc aic">И в любое другое место</h3>
                 <p className="t3 flex jcc aic">Оранжереи.</p>
                 <p className="f3 flex jcc aic">Зимние сады.</p>
                 <p className="s3 flex jcc aic">Школы.</p>
                 <p className="t3 flex jcc aic">Детские сады.</p>
-            </div>
+            </div> */}
             <div className="content">
                 <div className="hl flex column jcsb h100">
                     <div className="flex column">
